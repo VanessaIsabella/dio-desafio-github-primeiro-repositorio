@@ -2,4 +2,4 @@
 Desafio de projeto sobre Git/Github
 
 ## Links úteis
-[Slides]{https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view}
+[Slides](https://drive.google.com/file/d/1IZu0qohv1JOmxjEra1lknDiiStU68bl4/view)
